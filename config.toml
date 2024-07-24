@@ -1,0 +1,6 @@
+# Sample Config File
+[paths]
+data = "/s14-telcom/data/"
+logs = "/s14-telcom/logs/"
+credentials = "/s14-telcom/credentials/"
+src = "/s14-telcom/src/"

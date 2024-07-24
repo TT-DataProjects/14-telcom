@@ -5,3 +5,12 @@ dependencies:
   - pandas
   - psycopg2
   - SQLAlchemy
+  - toml
+  - seaborn
+  - scipy
+  - pyarrow
+  - numpy
+  - matplotlib
+  - jupyter
+  - ipykernel
+  - ipython
